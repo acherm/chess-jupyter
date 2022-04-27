@@ -9,7 +9,7 @@ Features:
  * analyze a game with Stockfish and plot the score evolution
  * basic analysis of PGN games
 
-As a proof of concept, there is an analysis of games of AlpaZero againt Stockfish. 
+As a proof of concept, there is an analysis of games of AlphaZero againt Stockfish. 
 
 Feel free to extend this work! 
  
